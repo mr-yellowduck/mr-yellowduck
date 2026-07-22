@@ -44,7 +44,7 @@ I am an undergraduate Electronics Engineering student, currently in my last seme
 
 ## Check out My Social Media
 
-<a hrefs="https://www.instagram.com/mr_yellowduck?igsh=cDJwcHl2NGx2ZGk%3D&utm_source=qr">
+<a href="https://www.instagram.com/mr_yellowduck?igsh=cDJwcHl2NGx2ZGk%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
