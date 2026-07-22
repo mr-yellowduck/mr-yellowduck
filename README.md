@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Electronics Engineering student, currently in my last semester. C++, Java, Python (with a focus on Machine Learning), and MySQL are the languages and tools I'm skilled in. I love innovation in technology, especially its application in medicine.
+I am an undergraduate Electronics Engineering student, currently in my last semester. Although my field of study is centered around circuits, I've developed a strong passion for code and for learning beyond what university teaches — I'm always looking to go further and explore new areas on my own. That said, I still love designing and building circuits just as much, and I make it a priority to keep learning, stay curious, and stay up to date in my field. I love innovation in technology, especially its application in medicine.
 
 * **I am interested in Data Science and its real-world applications**
 - 🌱 I'm currently learning ...
@@ -15,7 +15,7 @@ I am an undergraduate Electronics Engineering student, currently in my last seme
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
 - Outside tech, 📖 I love reading, especially classics, 🎵 listening to a wide variety of music, 🐾 animals (they're my favorite), and 🌍 discovering new places.
 - 📫 Reach out to me at: <a href="mailto:jdrivadeneira06@gmail.com">jdrivadeneira06@gmail.com</a>  🦆
-
+  
 ## My Skills Include
 
 <h4> Languages </h4>
